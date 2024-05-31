@@ -16,4 +16,4 @@
 - @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
 
 ## Hosted URL
-- https://html-gallerie.netlify.app
+- https://spotimage.netlify.app
